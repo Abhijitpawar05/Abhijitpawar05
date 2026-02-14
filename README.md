@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhijitpawar05/Abhijitpawar05/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Abhijit Pawar</h1>
 <h3 align="center">Passionate about Data Analytics and turning data into meaningful insights.</h3>
 
